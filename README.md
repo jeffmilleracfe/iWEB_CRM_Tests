@@ -5,6 +5,7 @@ This is a proof-of-concept for trying to share netForum Coded UI Tests across th
   - start your test by already being logged into your netForum environment and clicking on the "Abila" logo in the top left; this will reset your session
   - try and only use baseline fields for the initial recording and assertion(s); you can add additional recordings/tests and assertions for CUSTOM Fields or processes (and these tests/assertions should be clearly labeled that they are "custom")
   - be cognizant of your environment and include comments in your test files for things like:  are your modules sorted alphabetically?  Do you assume certain child forms are already expanded?
+  - IMPORTANT:  try and remove any hard-coded references to your URL!  Tests seem to work OK across environments if you use relative-URL's (and again, tests assume you are already logged into a netForum environment when you run them)
 
 NOTE: Tests in this respository are for version 2014 of netForum iWEB
 
