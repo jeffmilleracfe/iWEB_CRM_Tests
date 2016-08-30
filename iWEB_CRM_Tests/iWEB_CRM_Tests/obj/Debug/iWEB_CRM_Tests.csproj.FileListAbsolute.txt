@@ -1,0 +1,5 @@
+c:\users\jeffmiller\documents\visual studio 2015\Projects\iWEB_CRM_Tests\iWEB_CRM_Tests\bin\Debug\iWEB_CRM_Tests.dll
+c:\users\jeffmiller\documents\visual studio 2015\Projects\iWEB_CRM_Tests\iWEB_CRM_Tests\bin\Debug\iWEB_CRM_Tests.pdb
+c:\users\jeffmiller\documents\visual studio 2015\Projects\iWEB_CRM_Tests\iWEB_CRM_Tests\obj\Debug\iWEB_CRM_Tests.csprojResolveAssemblyReference.cache
+c:\users\jeffmiller\documents\visual studio 2015\Projects\iWEB_CRM_Tests\iWEB_CRM_Tests\obj\Debug\iWEB_CRM_Tests.dll
+c:\users\jeffmiller\documents\visual studio 2015\Projects\iWEB_CRM_Tests\iWEB_CRM_Tests\obj\Debug\iWEB_CRM_Tests.pdb
